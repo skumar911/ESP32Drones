@@ -38,8 +38,8 @@ Each drone communicates **dynamically, without pre-configured connections!** �
 ## 📥 **Installation & Setup**
 ### 1️⃣ **Clone the Repository**
 ```
-git clone https://github.com/yourusername/ESP-NOW-DroneSwarm.git
-cd ESP-NOW-DroneSwarm
+git clone https://github.com/skumar911/ESP32Drones.git
+cd ESP32Drones
 ```
 
 ### 2️⃣ **Flash Firmware to ESP32**
