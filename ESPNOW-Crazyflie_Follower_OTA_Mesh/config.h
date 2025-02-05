@@ -11,7 +11,7 @@
 #define DRONE_ID -1  // -1 for auto-assign, set a number for manual ID
 
 // 🛠️ LEADERSHIP CONFIG
-#define IS_LEADER true  // Set to true for manually assigned leaders
+#define IS_LEADER false  // Set to true for manually assigned leaders
 #define LEADER_TIMEOUT 5000  // Time to wait before auto-assigning a leader (ms)
 
 // 🛠️ ESP-NOW COMMUNICATION
